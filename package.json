@@ -20,7 +20,9 @@
     "typescript": "^3.6.3"
   },
   "scripts": {
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "server": "ts-node-dev src/server/index.ts",
+    "client": "parcel src/client/index.html"
   },
   "config": {
     "commitizen": {

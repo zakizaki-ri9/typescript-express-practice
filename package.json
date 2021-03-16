@@ -15,7 +15,7 @@
     "eslint": "^6.4.0",
     "husky": "^3.0.5",
     "lint-staged": "^9.2.5",
-    "parcel-bundler": "^1.12.3",
+    "parcel-bundler": "^1.12.5",
     "ts-node-dev": "^1.0.0-pre.42",
     "typescript": "^3.6.3"
   },
